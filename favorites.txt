@@ -1,3 +1,9 @@
+Food items:
 Briyani
 Chicken
 Paratha
+
+Movies:
+Bichagadu
+Luci
+Intestellar
